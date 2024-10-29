@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Akismet htaccess writer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-11 02:29+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: zodiac <info@blog.zodiac.vc>\n"
+"Language-Team:  <info@blog.zodiac.vc>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: akismet-htaccess-writer.php:269
+#: akismet-htaccess-writer.php:270
+#: akismet-htaccess-writer.php:282
+msgid "Akismet htaccess writer"
+msgstr ""
+
+#: akismet-htaccess-writer.php:288
+msgid "perhaps, the setting is not preserved. please check the file with the \"check file\" button, and preserve the setting with the \"save setting\" button if it is OK"
+msgstr ""
+
+#: akismet-htaccess-writer.php:289
+msgid "the filename set to the text input field is a filename that Akismet htaccess writer plug-in guessed. please correct it according to the environment used"
+msgstr ""
+
+#: akismet-htaccess-writer.php:314
+msgid "save done"
+msgstr ""
+
+#: akismet-htaccess-writer.php:317
+msgid "save fail"
+msgstr ""
+
+#: akismet-htaccess-writer.php:323
+msgid "it wrote it in the .htaccess file"
+msgstr ""
+
+#: akismet-htaccess-writer.php:329
+msgid ".htaccess filename to be written"
+msgstr ""
+
+#: akismet-htaccess-writer.php:333
+msgid "the filename that should be set here should be a filename composed of a complete pathname on the filesystem of the server. please note the thing that is not a virtual filesystem from the Web system"
+msgstr ""
+
+#: akismet-htaccess-writer.php:336
+msgid "save setting"
+msgstr ""
+
+#: akismet-htaccess-writer.php:337
+msgid "check file"
+msgstr ""
+
+#: akismet-htaccess-writer.php:338
+msgid "write now"
+msgstr ""
+
+#: akismet-htaccess-writer.php:343
+msgid "the content of .htaccess is as follows by pushing the \"write now\" button"
+msgstr ""
+
+#: akismet-htaccess-writer.php:351
+msgid "list of SPAM transmission former IP address"
+msgstr ""
+
+#: akismet-htaccess-writer.php:394
+msgid "check OK"
+msgstr ""
+
+#: akismet-htaccess-writer.php:398
+msgid "file not found"
+msgstr ""
+
+#: akismet-htaccess-writer.php:402
+msgid "not writeable .htaccess file"
+msgstr ""
+
+#: akismet-htaccess-writer.php:406
+msgid "not specified .htaccess file"
+msgstr ""
+
